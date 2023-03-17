@@ -1,0 +1,57 @@
+body{
+    margin: 0px;
+    padding: 0px;   
+    background: linear-gradient(45deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);"
+} 
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.main p{
+    margin-left: 232PX;
+    margin-bottom: 50px;
+}
+.main input{
+    height: 25px;
+    border-radius: 5px;
+}
+.sub{
+    background-color: lightskyblue;
+}
+
+.line{
+    margin-top: 50px;
+    color: white;
+}
+.line p{
+    margin-left: 621px;
+    color: white;
+}
+.log{
+    margin-top: 70px;
+    color:white;
+    display: flex;
+    height:50px;
+    width:100%;
+    align-items: center;
+    justify-content: center;
+}
+.log img{
+    border-radius: 7px;
+}
+.main{
+    display: inline;
+}
+.main p{
+    color: white;
+}
+
+.havent{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white        ;
+}
